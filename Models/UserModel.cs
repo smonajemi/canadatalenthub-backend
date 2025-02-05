@@ -42,7 +42,7 @@ public class Experience
 // Common properties for both
 public class User
 {
-    public string Id { get; set; }
+    public Guid Id { get; set; } 
 
     [Required]
     [StringLength(100, MinimumLength = 2)]

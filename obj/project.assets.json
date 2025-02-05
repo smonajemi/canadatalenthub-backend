@@ -80,11 +80,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\smona\\OneDrive\\Desktop\\canadatalenhub\\backend\\canadatalenthub\\canadatalenthub.csproj",
+      "projectUniqueName": "C:\\Users\\smona\\OneDrive\\Desktop\\canadatalenhub\\backend\\canadatalenthub.csproj",
       "projectName": "canadatalenthub",
-      "projectPath": "C:\\Users\\smona\\OneDrive\\Desktop\\canadatalenhub\\backend\\canadatalenthub\\canadatalenthub.csproj",
+      "projectPath": "C:\\Users\\smona\\OneDrive\\Desktop\\canadatalenhub\\backend\\canadatalenthub.csproj",
       "packagesPath": "C:\\Users\\smona\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\smona\\OneDrive\\Desktop\\canadatalenhub\\backend\\canadatalenthub\\obj\\",
+      "outputPath": "C:\\Users\\smona\\OneDrive\\Desktop\\canadatalenhub\\backend\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\smona\\AppData\\Roaming\\NuGet\\NuGet.Config",
