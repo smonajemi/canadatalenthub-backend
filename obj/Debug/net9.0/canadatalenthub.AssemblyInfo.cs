@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("canadatalenthub")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bd177e2d5ff937a08797465b88fecc8ea2eb907f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cd7c67ac51c51798628a15cbbbd893693fe1c641")]
 [assembly: System.Reflection.AssemblyProductAttribute("canadatalenthub")]
 [assembly: System.Reflection.AssemblyTitleAttribute("canadatalenthub")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

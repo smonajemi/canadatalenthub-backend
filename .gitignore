@@ -1,0 +1,60 @@
+# Environment variables
+.env
+
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Dd]ist/
+[Dd]evelopment/
+[Dd]ebugServer/
+[Dd]ebugSymbols/
+[Dd]ist/
+obj/
+bin/
+
+# User-specific files
+.idea/
+.vscode/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# ASP.NET temporary files
+appsettings*.json
+
+# User-specific files for Visual Studio Code (VS Code)
+.vscode/
+
+# .NET Core files
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Development certificates
+*.pfx
+*.cer
+
+# JetBrains Rider
+.idea/
+
+# Logs
+*.log
+
+# Temporary ASP.NET files
+*.db
+*.bak
+
+# OS generated files
+.DS_Store
+Desktop.ini
