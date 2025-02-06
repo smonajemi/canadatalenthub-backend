@@ -12,8 +12,6 @@ public interface IUserService
 public class UserService : IUserService
 {
     private readonly List<FreelancerUser> _users = new();
-
-    // Simulate async user retrieval
     public async Task<User> GetUserByEmailAsync(string email)
     {
         if (string.IsNullOrWhiteSpace(email))
@@ -58,8 +56,7 @@ public class UserService : IUserService
     }
 }
 
-// Custom exception for user not found
+// Custom exception
 public class UserNotFoundException : Exception
-{
-    public UserNotFoundException(string message) : base(message) { }
+{    public UserNotFoundException(string message) : base(message) { }
 }
