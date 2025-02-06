@@ -4,8 +4,11 @@ using System.Linq;
 using System.Threading.Tasks;
 
 public interface IUserService
-{
+{   
+    // asynchronous operation to return a User
     Task<User> GetUserByEmailAsync(string email);
+
+    // asynchronous operation to return a FreelancerUser
     Task<FreelancerUser> CreateFreelancerUserAsync(FreelancerUser freelancer);
 }
 
