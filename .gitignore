@@ -1,4 +1,69 @@
-# Environment variables
-.env
+# Ignore Visual Studio-specific files
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+*.vscode/
 
+# Ignore build output
+bin/
+obj/
+out/
+debug/
+release/
 
+# Ignore dependencies
+packages/
+!packages/repositories.config
+
+# Ignore NuGet packages
+*.nupkg
+project.lock.json
+project.assets.json
+# if using .NET Core
+*.deps.json
+*.runtimeconfig.json
+
+# Ignore temporary files
+*.tmp
+*.bak
+*.log
+*.cache
+*.vsconfig
+
+# Ignore Rider (JetBrains IDE) specific files
+.idea/
+*.sln.iml
+
+# Ignore .NET Core/ASP.NET Core environment files
+appsettings.Development.json
+appsettings.Local.json
+secrets.json
+secrets/
+
+# Ignore Entity Framework migrations (optional)
+Migrations/
+
+# Ignore publish output
+publish/
+wwwroot/
+
+# Ignore generated files
+*.Generated.cs
+*.Designer.cs
+
+# Ignore database files
+*.mdf
+*.ldf
+*.sqlite
+*.db
+
+# Ignore Resharper settings (if using JetBrains Rider or Resharper)
+_ReSharper.Caches/
+**/*.DotSettings.user
+**/*.sln.DotSettings.user
+
+# Ignore logs
+logs/
+*.log
